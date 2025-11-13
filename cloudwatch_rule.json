@@ -1,0 +1,5 @@
+{
+  "Name": "DailySnapshotCleanup",
+  "ScheduleExpression": "rate(1 day)",
+  "State": "ENABLED"
+}

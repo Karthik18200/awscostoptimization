@@ -1,0 +1,5 @@
+Architecture:
+CloudWatch Schedule → Lambda Function → EC2 APIs:
+- DescribeVolumes
+- DescribeSnapshots
+- DeleteSnapshot
