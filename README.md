@@ -65,4 +65,4 @@ CloudWatch Scheduler → AWS Lambda → EC2 Snapshot API → Delete Stale Snapsh
 Cloud and DevOps Enthusiast
 
 
-If you want, I can also generate a **ZIP file** for this version or help you make a **GitHub-ready structure**.
+
